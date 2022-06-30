@@ -10,8 +10,9 @@ import UIKit
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
+// App의 기본 life cycle
 
-
+    // App의 시작점
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
